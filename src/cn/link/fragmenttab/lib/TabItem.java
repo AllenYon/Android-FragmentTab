@@ -1,10 +1,8 @@
-package com.huaban.android.fragmenttab;
+package cn.link.fragmenttab.lib;
 
 import android.content.Context;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentTransaction;
-import com.huaban.topic.R;
 
 public abstract class TabItem<T> implements TabListener {
     protected final Context mContext;

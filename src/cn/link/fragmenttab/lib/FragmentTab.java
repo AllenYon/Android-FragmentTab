@@ -1,4 +1,4 @@
-package com.huaban.android.fragmenttab;
+package cn.link.fragmenttab.lib;
 
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
