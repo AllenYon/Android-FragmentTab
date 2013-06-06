@@ -3,6 +3,11 @@ Android-FragmentTab
 
 Similar to ActionBar ，Simpler
 
+实现管理Fragment的逻辑和UI的分离，适用于底部Tab,分页Tab等场景，内部默认使用的是add(),attach(),detach()操作管理fragment，
+也可以继承TabItem自己实现UI逻辑，添加效果。
+
+
+
 
 ##Usage
 
